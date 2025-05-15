@@ -51,8 +51,6 @@ import { PokemonCards } from "./PokemonCards";
     );
   }
 
-  // subscribe to thapa technical youtube channel: https://www.youtube.com/thapatechnical
-
   return (
     <>
       <section className="container">
